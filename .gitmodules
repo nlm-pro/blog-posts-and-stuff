@@ -3,4 +3,4 @@
 	url = git@github.com:xdamman/mediumexporter.git
 [submodule "mocha-shared-behaviors/demo"]
 	path = mocha-shared-behaviors/demo
-	url = git@github.com:noelmace/mocha-shared-behaviors.git
+	url = git@github.com:nlm-pro/mocha-shared-behaviors.git
